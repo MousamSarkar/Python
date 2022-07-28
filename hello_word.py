@@ -5,3 +5,8 @@ UNIT_PRICE = 3
 
 print("Hello World")
 print("*" * 10)
+
+x = input("x: ")
+y = int(x) + 6
+
+print(y)

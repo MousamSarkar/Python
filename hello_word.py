@@ -4,7 +4,7 @@ X = 1
 UNIT_PRICE = 3
 
 print("Hello World")
-print("*" * 10)
+print("*" * 15)
 
 x = input("x: ")
 y = int(x) + 6
